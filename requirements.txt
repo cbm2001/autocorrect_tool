@@ -1,0 +1,6 @@
+pandas
+pattern
+pyspellchecker
+autocorrect
+textblob
+textdistance
